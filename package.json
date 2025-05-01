@@ -47,7 +47,7 @@
     "cross-env": "^5.2.0",
     "del": "^3.0.0",
     "diff": "^4.0.1",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-prettier": "^2.1.0",
     "gulp-typescript": "^5.0.0",
     "istanbul-instrumenter-loader": "^3.0.1",
@@ -55,10 +55,10 @@
     "nyc": "^13.2.0",
     "require-from-string": "^2.0.2",
     "through2": "^3.0.0",
-    "ts-loader": "^5.3.3",
-    "webpack": "^4.28.4",
+    "ts-loader": "^9.5.2",
+    "webpack": "^5.98.0",
     "webpack-merge": "^4.2.1",
-    "webpack-stream": "^5.2.1"
+    "webpack-stream": "^7.0.0"
   },
   "nyc": {
     "extension": [
